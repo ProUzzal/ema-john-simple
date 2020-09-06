@@ -1,0 +1,25 @@
+.single-product{
+    display: flex;
+    padding: 10px;
+    margin-right: 5px;
+    border-bottom: 1px solid lightgray;
+}
+.product-image{
+    margin-right: 50px;
+}
+.product-details h3{
+    color: goldenrod;
+    text-align: justify;
+    font-weight:600;
+}
+.add-button{
+    background-color: goldenrod;
+    border: 2px solid lightgoldenrodyellow;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 30px;
+    width: 150px;
+    color:black;
+    font-weight: 400;
+    cursor: pointer;
+}
